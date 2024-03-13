@@ -6,6 +6,10 @@ This project aims to extract important entities, such as diseases, drugs, and th
 
 The primary goal of this project is to assist in analyzing clinical text data to extract relevant biomedical entities, which can be crucial for various biomedical applications such as information extraction, text classification, and question-answering systems.
 
+# Medical Text:
+
+https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions
+
 # Components:
 
 Installation: The project requires the installation of spaCy and scispaCy libraries along with specific pre-trained models for biomedical NER.
